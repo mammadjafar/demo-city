@@ -1,0 +1,11 @@
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1392685764, 'Tokyo', 'Tokyo', 'Japan', 35.685, 139.7514, 35676000);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1840034016, 'New York', 'New York', 'United States', 40.6943, -73.9249, 19354922);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1484247881, 'Mexico City', 'Mexico City', 'Mexico', 19.4424, -99.131, 19028000);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1356226629, 'Mumbai', 'Mumbai', 'India', 19.017, 72.857, 18978000);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1076532519, 'Sao Paulo', 'São Paulo', 'Brazil', -23.5587, -46.625, 18845000);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1356872604, 'Delhi', 'Delhi', 'India', 28.67, 77.23, 15926000);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1156073548, 'Shanghai', 'Shanghai', 'China', 31.2165, 121.4365, 14987000);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1356060520, 'Kolkata', 'Kolkata', 'India', 22.495, 88.3247, 14787000);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1840020491, 'Los Angeles', 'Los Angeles', 'United States', 34.1139, -118.4068, 12815475);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1050529279, 'Dhaka', 'Dhaka', 'Bangladesh', 23.7231, 90.4086, 12797394);
+INSERT INTO Cities (ID, Name_ascii, Name, Country, Latitude, Longitude, Population) VALUES ( 1050529379, 'Test', 'Test', 'Bangladesh', 23.7231, 90.4086, 12797394);
