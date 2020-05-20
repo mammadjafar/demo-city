@@ -30,6 +30,8 @@ This app apply pagination and sorting. You can use **size**, **page**, **sort** 
 
 This app uses ***Spring Data REST***. Spring Data REST is part of the umbrella Spring Data project and makes it easy to build hypermedia-driven REST web services on top of Spring Data repositories.
 Spring Data REST builds on top of Spring Data repositories, analyzes your application’s domain model and exposes hypermedia-driven HTTP resources for aggregates contained in the model.
+At runtime, Spring Data REST automatically creates an implementation of ***CityRepository***. Then it uses the @RepositoryRestResource, and @RestResource annotations to direct Spring MVC to create RESTful endpoints. CityRepository also extends from PagingAndSortingRepository which is extension of CrudRepository(Interface for generic CRUD operations on a repository for a specific type) to provide additional methods to retrieve entities using the pagination and sorting abstraction. <a href="https://spring.io/guides/gs/accessing-data-rest/" target="_blank">more</a>
+
 
 ***Flyway*** is the choise of migration tool. Flyway strongly favors simplicity and convention over configuration. DB scripts located under /resources/db/migration/ .
 
