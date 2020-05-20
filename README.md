@@ -9,7 +9,7 @@ In order to start the application run command below in root dir
 
 
 ## Usage!
-When you run this app you can access its features using several RESTful endpoints. This app exposes HATEOS endpoints.
+When you run this app you can access its features using several RESTful endpoints. This app exposes HATEOAS endpoints.
 
 ###### Endpoints
 * <a href="http://localhost:8080/cities/search/name?q=London" target="_blank">http://localhost:8080/cities/search/name?q=London</a> - returns a list of cities with London in their name. Ignoring case sensitivity.
