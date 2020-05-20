@@ -40,3 +40,5 @@ Sprign Data REST entities are cumbersome to Mock/Spy, hence to test. On the othe
 
 ## More
 You can use cities.posman_collection.json for example queries if you have postman installed. Also file is readable without postman app. 
+
+City database added from https://simplemaps.com/data/world-cities
