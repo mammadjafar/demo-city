@@ -41,6 +41,6 @@ At runtime, Spring Data REST automatically creates an implementation of ***CityR
 Sprign Data REST entities are cumbersome to Mock/Spy, hence to test. On the other side considering with Spring Data REST there is not much coding done, which makes unit test less favorable. Considering that Integration test with preloaded DB implemented in this app. I opted start server to run test but there is another useful approach which is to not start the server at all but to test only the layer below that. <a href="https://spring.io/guides/gs/testing-web/" target="_blank">more</a> 
 
 ## More
-You can use cities.posman_collection.json for example queries if you have postman installed. Also file is readable without postman app. 
+You can use cities.posman_collection.json for example queries if you have postman installed. Also the file is human readable without postman app. 
 
 City database added from https://simplemaps.com/data/world-cities
