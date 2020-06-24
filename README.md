@@ -1,3 +1,5 @@
+Nothing fancy here, just an example Spring Boot app, to brush up
+
 ## Requisites
 * Java 8+   
 * Apache Maven 3.6+
